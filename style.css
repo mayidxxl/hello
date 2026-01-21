@@ -44,7 +44,7 @@ input[type="text"]:focus {
 
 button#add-btn {
     padding: 10px 20px;
-    background-color: #28a745;
+    background-color: blue;
     color: white;
     border: none;
     border-radius: 4px;
